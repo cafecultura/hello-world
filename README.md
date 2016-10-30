@@ -1,2 +1,3 @@
 # hello-world
-first step
+My name is Aleksei
+I want to start programming
